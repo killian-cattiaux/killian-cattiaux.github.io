@@ -39,7 +39,6 @@ a {
     text-decoration: none;
 }
 .container {
-    min-height: 100vh;
     width: 100%;
     align-items: center;
     justify-content: center;
@@ -106,7 +105,7 @@ p {
     text-align: center;
     max-width: 1500px;
     margin: 0 auto;
-    padding: 100px 0;
+    padding: 1px 0;
 }
 #services2 .service2-top {
     max-width: 750px;
