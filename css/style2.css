@@ -4,12 +4,15 @@
     margin: 0;
     box-sizing: border-box;
 }
-html {
+
+
+#PP {
     font-size: 10px;
     font-family: 'Montserrat', sans-serif;
     scroll-behavior: smooth;
     text-decoration: whitesmoke;
     background-image: url("https://img.pixers.pics/pho_wat(s3:700/FO/18/27/68/45/9/700_FO182768459_783795f43eef4a575124c411c90ec92d.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/papiers-peints-certificat-de-fond-d-39-ecran-creatif-de-crayons-colores-ecole-de-fond-transparent-d-39-illustration-de-fond.jpg.jpg");
+    background-size: cover;
 
 }
 #PP {
@@ -26,6 +29,7 @@ html {
     height: 100%;
     width: 100%;
     background-color: black;
+    background-size: cover;
     opacity: .7;
     z-index: -1;
 }
